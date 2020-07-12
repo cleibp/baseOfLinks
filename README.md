@@ -1,9 +1,8 @@
 # baseOfLinks
 Documentação de links úteis no processo de desenvolvimento utilizando a ferramenta mkdocs.
 
-# Veja a Demonstração 
-**Hospedagem InfiniteFree**
-[Visualizar](http://baselinks.epizy.com/) 
+# Demonstração
+[Visualizar](https://cleibp.github.io/baseOfLinks/) 
 
 # Comandos Básicos
 
