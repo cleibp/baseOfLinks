@@ -3,6 +3,115 @@
 <center> Página criada com a finalidade de oferecer uma base de links de diversas ferramentas e plataformas online.</center>
 
 ---
+## Cursos de Idiomas
+
+* [NHK](https://www.nhk.or.jp/lesson/portuguese/learn/list/21.html) - Japonês
+* [LOECSEN](https://www.loecsen.com/pt/curso-japones/87-16-17-no-caso-de-preocupacoes) - Japonês
+* [LOECSEN](https://www.loecsen.com/pt/curso-japones#/pt/O%20indispensável) - Japonês
+* [CADERNO](http://caderno.org/) - Japonês
+* [LOECSEN](https://www.loecsen.com/pt/curso-alemao) - Alemão
+* [LOECSEN](https://www.loecsen.com/pt/curso-frances) - Francês
+* [WLINGUA](http://curso.wlingua.com/1.75/) - Inglês
+* [INGLESCURSO](http://www.inglescurso.net.br) - Inglês
+* [Esperanto](http://www.esperanto.com.br/aprenda/cursos) - Esperanto
+* [USP](https://cursosextensao.usp.br/course/view.php?id=131&section=0) - Italiano
+* [LEARNCAFE](https://www.learncafe.com/cursos-gratis/idiomas) - Vários
+[INGLES GRATIS](http://aulasdeinglesgratis.net/expressoes/)
+
+## Cursos de TI
+
+* [Curso Completo de HTML5](https://goo.gl/SD4p4g)
+* [Curso Aprenda HTML](https://goo.gl/1kfBCZ)
+* [Curso completo de CSS3](https://goo.gl/ebjzVG)
+* [Curso Básico de CSS](https://goo.gl/s98HNb)
+* [Curso de Bootstrap](https://goo.gl/xFDOxT)
+* [Curso de Less](https://goo.gl/Y5UkLQ)
+* [Curso de Sass](https://goo.gl/DzRv1e)
+* [Curso de CSS3 com Sass e Compass](https://goo.gl/bAO0hE)
+* [Curso completo de Javascript](https://goo.gl/zfjfkQ)
+* [Curso Completo de jQuery](https://goo.gl/tHdIZ7)
+* [Curso de Angular](https://goo.gl/6rT9ZC)
+* [Curso de Angular 2](https://goo.gl/mxPqRt)
+* [Curso Básico de PHP](https://goo.gl/wLra9o)
+* [Curso Completo de PHP](https://goo.gl/1th6ok)
+* [Curso de NodeJS](https://goo.gl/6kGFk6)
+* [Curso de Aplicações Web Ricas com ExtJS](https://goo.gl/tMZDvv)
+* [Curso de Ruby](https://goo.gl/LcHcn4)
+* [Curso de Ruby On Rails](https://goo.gl/4oXEAP)
+* [Curso de Gulp](https://goo.gl/dgs7On)
+* [Curso de Grunt](https://goo.gl/8KZskT)
+* [Curso de Laravel](https://goo.gl/C8RaxI)
+* [Curso de CodeIgniter](https://goo.gl/A39ge0)
+* [Curso de Zend 2](https://goo.gl/nDkesr)
+* [Curso de Zend 3](https://goo.gl/N1PBQV)
+* [Curso Completo de MySQL](https://goo.gl/wom29p)
+* [Curso de MongoDB](https://goo.gl/xc1LAo)
+* [Curso Básico de Wordpress](https://goo.gl/VTa3aV)
+* [Curso Completo de Criação de Temas para Wordpress](https://goo.gl/10vlHM)
+* [Curso Completo de criação de Portais com Wordpress](https://goo.gl/5ravtU)
+* [Curso de Desenvolvimento de Plugins para o Wordpress](https://goo.gl/ozs8Yf)
+* [Curso Básico de Magento](https://goo.gl/bBJnFx)
+* [Curso Express de Desenvolimento de Temas para o Magento](https://goo.gl/9CmbJo)
+* [Curso Completo de Desenvolvimento de Temas para o Magento](https://goo.gl/6XsLRx)
+* [Curso de Desenvolvimento de Módulos para o Magento](https://goo.gl/mZoxJ3)
+* [Curso Básico de Drupal 7](https://goo.gl/VpxzLl)
+* [Curso de Views no Drupal 7](https://goo.gl/RKZidV)
+* [Curso de Desenvolvimento de Temas para o Drupal 7](https://goo.gl/qn75XT)
+* [Curso de Desenvolvimento de Módulos para o Drupal 7](https://goo.gl/99NW2O)
+* [Curso de Desenvolvimento de Apps para Android](https://goo.gl/btlCUv)
+* [Curso de Desenvolvimento de Apps para iOS com Swift](https://goo.gl/RyuNoA)
+* [Curso de Desenvolvimento de Apps para iOS com Objective C](https://goo.gl/0bq0kC)
+* [Curso de Desenvolvimento de Apps com PhoneGap/Cordova](https://goo.gl/GDXSsX)
+* [Curso de Desenvolvimento de Apps com Ionic](https://goo.gl/xQlBmA)
+* [Curso de Desenvolvimento de Apps com Ionic 2](https://goo.gl/i3PVo7)
+* [Curso Recriando o Uber com Ionic 2](https://goo.gl/B9KyHL)
+* [Curso Criando um App de gestão financeira com Ionic 2](https://goo.gl/EUzvuY)
+* [Curso de Interfaces Responsivas com jQuery Mobile](https://goo.gl/0KCCg2)
+* [Curso de Interfaces Responsivas com Sencha Touch](https://goo.gl/JktVlX)
+* [Curso Básico de GIT](https://goo.gl/OSdCBS)
+* [Curso Configurando um Servidor Cloud na Digital Ocean](https://goo.gl/8sr22C)
+* [Curso Configurando um Servidor Amazon AWS](https://goo.gl/qfnmAJ)
+* [Curso Básico de Linux Debian](https://goo.gl/FLfXN9)
+* [Curso Completo de Linux Ubuntu](https://goo.gl/rPpgkl)
+* [Curso Completo de Servidor Linux Debian](https://goo.gl/sNk7xU)
+* [Curso Avançado de Linux Ubuntu - Comandos no Terminal](https://goo.gl/KA6S70)
+* [Curso de Windows Server 2016](https://goo.gl/WnnYqX)
+
+
+## Outros cursos
+
+* [ITA](http://engenhariae.com.br/mais/colunas/ita-esta-oferecendo-10-cursos-gratuitos-a-distancia/)
+* [UNESP](http://unespaberta.ead.unesp.br/index.php)
+* [Sebrae](https://ead.sebrae.com.br/cursos/aprender-a-empreender)
+* [ESTUDAR](https://www.estudar.org.br/carreira/)
+* [Microfisioterapia](http://www.microfisioterapiacuritiba.com.br/index.html)
+* [Instituto Salgado](http://institutosalgado.com.br/)
+* [SENAI](http://www.sp.senai.br/)
+* [EDUCA](http://www.cursosonlineeduca.com.br/)
+* [VEDUCA](http://www.veduca.com.br/)
+* [CODECADEMY](http://www.codecademy.com/pt-BR/tracks/javascript)
+* [SOFTBLUE](http://www.softblue.com.br/site/curso/id/3/CURSO+SQL+COMPLETO+BASICO+AO+AVANCADO+ON+LINE+BD03)
+* [BRASILMAISTI](http://www.brasilmaisti.com.br/index.php/pt-br/)
+* [FGV](http://www5.fgv.br/fgvonline/Cursos/Atualizacao/Fundamentos-Da-Gestao-De-Ti/OCWTIEAD-01slsh2012-1/OCWTIEAD_00/SEM_TURNO/)
+* [FGV](http://mpgi.fgv.br/)
+* [PRIMECURSOS](https://www.primecursos.com.br/)
+* [OFICINA DA NET](http://www.oficinadanet.com.br/)
+* [COURSERA](https://www.coursera.org/)
+* [TIEXAMES](http://www.tiexames.com.br)
+* [IMPACTA](http://www.impacta.com.br/)
+* [TREINAWEB](https://www.treinaweb.com.br/)
+* [IPED](http://www.iped.com.br/)
+* [CURSOEMVIDEO](www.cursoemvideo.com)
+* [SENAIES](https://eadsenaies.com.br)
+* [HARVARD](https://online-learning.harvard.edu)
+* [GOOGLE](https://summerofcode.withgoogle.com)
+* [USP](http://mbauspesalq.com/pt/cursos/gestao-de-projetos)
+* [KACKER](https://www.hackerearth.com)
+* [URI](https://www.urionlinejudge.com.br/judge/en/login)
+* [CANAL DO ENSINO](https://canaldoensino.com.br/blog/unicamp-oferece-9-cursos-de-forma-online-e-gratuita)
+* [TUTORIALS POINT](https://www.tutorialspoint.com)
+* [PORTAL GSTI](https://www.portalgsti.com.br/cursos/?title=gratuito&category=infraestrutura&community=redes-de-computadores&order=#)
+
 
 ## Imagens gratuitas
 
