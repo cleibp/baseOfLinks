@@ -18,7 +18,7 @@
 * [Esperanto](http://www.esperanto.com.br/aprenda/cursos) - Esperanto
 * [USP](https://cursosextensao.usp.br/course/view.php?id=131&section=0) - Italiano
 * [LEARNCAFE](https://www.learncafe.com/cursos-gratis/idiomas) - Vários
-[INGLES GRATIS](http://aulasdeinglesgratis.net/expressoes/)
+* [INGLES GRATIS](http://aulasdeinglesgratis.net/expressoes/)
 
 ## Cursos de TI
 
