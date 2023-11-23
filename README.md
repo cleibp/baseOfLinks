@@ -57,6 +57,19 @@ Documentação de links úteis no processo de desenvolvimento
 
 ```sh
 .
+├── docs
+    ├── about.md
+    └── index.md
+├── site
+    ├── about.md
+    ├── css
+    ├── fonts
+    ├── img
+    ├── js
+    ├── mkdocs
+    ├── 404.html
+    ├── index.html
+    ├── sitemap.xml  
 ├── README.md
 ```
 
